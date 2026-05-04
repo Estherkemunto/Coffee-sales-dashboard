@@ -24,3 +24,6 @@ A small group of customers, led by Allis Wilmore, contributes the highest share 
 #Overall Sales Performance
 
 The business generated $45,134 in total revenue from 1,000 orders, with 3,551 units sold, reflecting consistent transaction activity and steady product demand.
+
+<img width="1146" height="529" alt="The Dashboard" src="https://github.com/user-attachments/assets/9bac1bd3-48e6-42c2-890c-a06b77142f4f" />
+
